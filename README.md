@@ -1,6 +1,8 @@
 # WTF-is-Deep-Learning
-My notes, experiences, progress, and resources for building Deep Learning expertise and surviving grad school. \
+My notes, experiences, progress, and resources for building Deep Learning expertise and slaying grad school. \
 Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imaging
+<br><br>
+**Plan for 2020**: Intensively read 6 papers a week (1 per day Mon to Sat, review on Sun), and submit notes for each of them. The 6 papers will be divided into 2 general categories: (1) Breadth - aimed at solidifying DL foundations (2) Depth - for advancing relevant expertise for current projects and my dissertation in general.
 <br><br>
 (Inspired by: [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning))
 
@@ -80,13 +82,19 @@ Books
 
 # II. Paper Notes
 
-### Wk1 - 2020.06.29
+### Wk2 - 2020.06.29
+Breadth:
+
+Depth:
 
 ### Wk1 - 2020.06.22
-Focus: ML fundamentals, macro-perspectives, and implementation.
+Breadth: ML fundamentals, macro-perspectives, and implementation.
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) [[Notes]()] <kbd>NIPS 2015</kbd>
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372) [[Notes](papers/2002_stat_modeling_2cultures.md)] <kbd>2001</kbd>
 * [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [[Notes](papers/2012_useful_things_about_ml.md)] <kbd>2012</kbd>
+
+Depth: Annotation-Efficient Tracking
+
 
 # III. Misc
 :)
