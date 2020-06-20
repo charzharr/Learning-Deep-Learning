@@ -44,18 +44,25 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 * All NIPS Proceedings ([site](https://papers.nips.cc/))
 * ArXiV Preprints - Computer Vision ([site](https://arxiv.org/list/cs.CV/recent))
 * ArXiV Preprints - Organized-ish ([site](http://www.arxiv-sanity.com/))
+* Google Scholar - Follow Relevant Authors ([site](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision))
 
 **Community Discourse & Mentions**
 * r/MachineLearning Subreddit ([sub](https://www.reddit.com/r/MachineLearning/))
+* Twitter ([followlist]())
 
 ### Courses & Books
 
 **Fundamentals**
-* Stanford CS231n
-* 
+* MIT Patrick Winston - Classic Artifical Intelligence 2010 ([playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi))
+* Stanford CS231n - CNNs for Visual Recognition ([site](http://cs231n.stanford.edu/))
+* Stanford Andrew Ng - Deep Learning Specialization ([coursera](https://www.coursera.org/specializations/deep-learning))
+* Geoffrey Hinton - NNs for Machine Learning ([playlist](https://www.youtube.com/watch?v=OVwEeSsSCHE&list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv))
+* Columbia Andreas Mueller - Applied Machine Learning 2020 ([playlist](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM))
 * Carnegie Mellon University - Array of Deep Learning Coureses 2020 ([playlists](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists))
 
 **Specialized**
+* deeplearning.ai - AI for Medicine Specialization ([coursera](https://www.coursera.org/specializations/ai-for-medicine))
+* Berkeley Pieter Abbeel - Deep Unsupervised Learning ([playlist](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP))
 
 **Books**
 * Dive into Deep Learning (w/PyTorch Implementations) ([site](http://d2l.ai/index.html))
