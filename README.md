@@ -96,4 +96,4 @@ Depth: Annotation-Efficient Tracking
 
 ### Wk0 - 2020.06.15
 (Trial Run) Test and improve this pipeline.
-* [DenseNet: Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) [[Notes](https://docs.google.com/document/u/1/d/e/2PACX-1vTQZSTpJIxt83HEfyNH-FoVgYSgOomRNz1Mt6WamTtUmcYGw8BaxrZnyPkkAfRjvyKUgFwfQKLyrZzu/pub)]
+* [DenseNet: Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT41lqeRvSWQdN7Qjc55WheEVzWYINBjNuugH3VVgwXA-HRUW8zhQYBJTdVt51LU5WjI4qHT4iQpihQ/pub)] <kbd>CVPR 2017</kbd>
