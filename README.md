@@ -14,8 +14,6 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
     * Talks - seminars, conference talks, stand-alone lectures
 2. [Paper Notes](#ii-paper-notes)
     - Weekly list of papers I read, notes on the, and publication info
-3. [Misc](#iii-misc)
-    - Random useful stuff
 
 ### Search (Cmd-F)
 **By Year** - 2002 to 2020 \
@@ -81,6 +79,7 @@ Books
 * Biomedical Challenges [[site](https://grand-challenge.org/challenges/)]
 
 # II. Paper Notes
+> Everyone should have their mind blown once a day. -- Neil D. Tyson
 
 ### Wk2 - 2020.06.29
 Breadth:
@@ -95,6 +94,6 @@ Breadth: ML fundamentals, macro-perspectives, and implementation.
 
 Depth: Annotation-Efficient Tracking
 
-
-# III. Misc
-:)
+### Wk0 - 2020.06.15
+(Trial Run) Test and improve this pipeline.
+* [DenseNet: Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) [[Notes](https://docs.google.com/document/u/1/d/e/2PACX-1vTQZSTpJIxt83HEfyNH-FoVgYSgOomRNz1Mt6WamTtUmcYGw8BaxrZnyPkkAfRjvyKUgFwfQKLyrZzu/pub)]
