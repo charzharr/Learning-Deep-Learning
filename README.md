@@ -5,20 +5,29 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 (Inspired by: [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning))
 
 ### Contents
-I. Sources [jump](#i-sources)
+1. Sources ([jump](#i-sources))
     * Meta-Learning - learning how to learn, effective research, process-focused incremental improvement
     * Papers - sources to keep up with literature
     * Courses - great beginner and PhD-level courses
     * Talks - seminars, conference talks, stand-alone lectures
-II. Paper Notes [jump](#ii-papers)
+2. Paper Notes ([jump](#ii-paper-notes))
     - Weekly list of papers I read, notes on the, and publication info
-III. Misc
+3. Misc ([jump](#iii-misc))
     - Random useful stuff
 
 ### Search (Cmd-F)
-**By Year** 2002 to 2020
-**By Category**
-
+**By Year** - 2002 to 2020 \
+**By Conference** -
+   e.g. CVPR, NIPS, MICCAI, ICLR, ICCV, ICML, ECCV \
+**By Topic Category** -
+   e.g. [Gml], [Opt], [Net], [Loc], [Uns], [Ano], [Vid]
+   * [Gml] General ML (Thinking Frameworks, Theory, Math, 
+   * [Opt] Training & Optimization
+   * [Net] Networks (FeatEx Backbones, Modules, Aggregation Methods, Components, Analysis)
+   * [Loc] Localization (Object Detection, Segmentation)
+   * [Uns] Unsupervised Techniques (GAN, VAE, Self-Supervised, Contrastive)
+   * [Ano] Annotation Reduction (Active/Transfer Learning, Semi/Weakly-Supervised)
+   * [Vid] Video (Multi-Object Tracking, Temporal Features)
 
 # I. Sources
 
