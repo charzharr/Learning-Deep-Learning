@@ -5,14 +5,14 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 (Inspired by: [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning))
 
 ### Contents
-1. [Sources](#i-sources)
+1. [Sources](#i-resources)
     * Meta-Learning - learning how to learn, effective research, process-focused incremental improvement
     * Papers - sources to keep up with literature
     * Courses - great beginner and PhD-level courses
     * Talks - seminars, conference talks, stand-alone lectures
-2. [Paper Notes](#ii-paper-notes))
+2. [Paper Notes](#ii-paper-notes)
     - Weekly list of papers I read, notes on the, and publication info
-3. [Misc](#iii-misc))
+3. [Misc](#iii-misc)
     - Random useful stuff
 
 ### Search (Cmd-F)
@@ -29,9 +29,10 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
    * [Ano] Annotation Reduction (Active/Transfer Learning, Semi/Weakly-Supervised)
    * [Vid] Video (Multi-Object Tracking, Temporal Features)
 
-# I. Sources
+# I. Resources
 
-### Meta-Learning (learning how to learn)
+### Meta-Learning 
+Learning how to learn.
 * How to Read a Paper [[pdf](/metalearning/how_to_read_a_paper.pdf)]
 * Andrew Ng - Reading Research Papers & Career Advice [[vid](https://www.youtube.com/watch?v=733m6qBH-jI)]
 
@@ -40,15 +41,17 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 ### Papers
 
 **Primary**
-* Computer Vision Foundation Open Access [[site](http://openaccess.thecvf.com/menu.py)]
-* All NIPS Proceedings [[site](https://papers.nips.cc/)]
+* Google Scholar - Follow Relevant Authors [[site](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)]
 * ArXiV Preprints - Computer Vision [[site](https://arxiv.org/list/cs.CV/recent)]
 * ArXiV Preprints - Organized-ish [[site](http://www.arxiv-sanity.com/)]
-* Google Scholar - Follow Relevant Authors [[site](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)]
+* Open Review [[site](https://openreview.net/)]
+* Computer Vision Foundation Open Access [[site](http://openaccess.thecvf.com/menu.py)]
+* All NIPS Proceedings [[site](https://papers.nips.cc/)]
+* Papers With Code [[site](https://paperswithcode.com/)]
 
 **Community Discourse & Mentions**
 * r/MachineLearning Subreddit [[sub](https://www.reddit.com/r/MachineLearning/)]
-* Twitter [[followlist]()]
+* Twitter [[followlist](https://www.reddit.com/r/MachineLearning/comments/5jjzny/d_deep_learning_twitter_loop/)]
 
 ### Courses & Books
 
@@ -71,12 +74,17 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 ### Talks
 
 
+### Tasks
+* Computer Vision Conferences [[site](http://conferences.visionbib.com/Iris-Conferences.html)]
+* Biomedical Challenges [[site](https://grand-challenge.org/challenges/)]
+
 # II. Paper Notes
 
 ### Wk1 - 2020.06.29
 
 ### Wk1 - 2020.06.22
-Focus: ML fundamentals & macro-perspectives.
+Focus: ML fundamentals, macro-perspectives, and implementation.
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) [[Notes]()] <kbd>NIPS 2015</kbd>
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372) [[Notes](papers/2002_stat_modeling_2cultures.md)] <kbd>2001</kbd>
 * [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [[Notes](papers/2012_useful_things_about_ml.md)] <kbd>2012</kbd>
 
