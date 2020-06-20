@@ -35,9 +35,31 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 * How to Read a Paper ([pdf](/metalearning/how_to_read_a_paper.pdf))
 * Andrew Ng - Reading Research Papers & Career Advice ([vid](https://www.youtube.com/watch?v=733m6qBH-jI))
 
+* How to Release Research Code ([git](https://github.com/paperswithcode/releasing-research-code))
+
 ### Papers
 
-### Courses
+**Fresh Primary Sources**
+* Computer Vision Foundation Open Access ([site](http://openaccess.thecvf.com/menu.py))
+* All NIPS Proceedings ([site](https://papers.nips.cc/))
+* ArXiV Preprints - Computer Vision ([site](https://arxiv.org/list/cs.CV/recent))
+* ArXiV Preprints - Organized-ish ([site](http://www.arxiv-sanity.com/))
+
+**Community Discourse & Mentions**
+* r/MachineLearning Subreddit ([sub](https://www.reddit.com/r/MachineLearning/))
+
+### Courses & Books
+
+**Fundamentals**
+* Stanford CS231n
+* 
+* Carnegie Mellon University - Array of Deep Learning Coureses 2020 ([playlists](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists))
+
+**Specialized**
+
+**Books**
+* Dive into Deep Learning (w/PyTorch Implementations) ([site](http://d2l.ai/index.html))
+
 
 ### Talks
 
