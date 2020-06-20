@@ -7,7 +7,7 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 (Inspired by: [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning))
 
 ### Contents
-1. [Sources](#i-resources)
+1. [Resources](#i-resources)
     * Meta-Learning - learning how to learn, effective research, process-focused incremental improvement
     * Papers - sources to keep up with literature
     * Courses - great beginner and PhD-level courses
@@ -79,7 +79,6 @@ Books
 * Biomedical Challenges [[site](https://grand-challenge.org/challenges/)]
 
 # II. Paper Notes
-> Everyone should have their mind blown once a day. -- Neil D. Tyson
 
 ### Wk2 - 2020.06.29
 Breadth:
