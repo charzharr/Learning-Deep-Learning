@@ -5,14 +5,14 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 (Inspired by: [Patrick Liu](https://github.com/patrick-llgc/Learning-Deep-Learning))
 
 ### Contents
-1. Sources ([jump](#i-sources))
+1. [Sources](#i-sources)
     * Meta-Learning - learning how to learn, effective research, process-focused incremental improvement
     * Papers - sources to keep up with literature
     * Courses - great beginner and PhD-level courses
     * Talks - seminars, conference talks, stand-alone lectures
-2. Paper Notes ([jump](#ii-paper-notes))
+2. [Paper Notes](#ii-paper-notes))
     - Weekly list of papers I read, notes on the, and publication info
-3. Misc ([jump](#iii-misc))
+3. [Misc](#iii-misc))
     - Random useful stuff
 
 ### Search (Cmd-F)
@@ -32,40 +32,40 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 # I. Sources
 
 ### Meta-Learning (learning how to learn)
-* How to Read a Paper ([pdf](/metalearning/how_to_read_a_paper.pdf))
-* Andrew Ng - Reading Research Papers & Career Advice ([vid](https://www.youtube.com/watch?v=733m6qBH-jI))
+* How to Read a Paper [[pdf](/metalearning/how_to_read_a_paper.pdf)]
+* Andrew Ng - Reading Research Papers & Career Advice [[vid](https://www.youtube.com/watch?v=733m6qBH-jI)]
 
-* How to Release Research Code ([git](https://github.com/paperswithcode/releasing-research-code))
+* How to Release Research Code [[git](https://github.com/paperswithcode/releasing-research-code)]
 
 ### Papers
 
-**Fresh Primary Sources**
-* Computer Vision Foundation Open Access ([site](http://openaccess.thecvf.com/menu.py))
-* All NIPS Proceedings ([site](https://papers.nips.cc/))
-* ArXiV Preprints - Computer Vision ([site](https://arxiv.org/list/cs.CV/recent))
-* ArXiV Preprints - Organized-ish ([site](http://www.arxiv-sanity.com/))
-* Google Scholar - Follow Relevant Authors ([site](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision))
+**Primary**
+* Computer Vision Foundation Open Access [[site](http://openaccess.thecvf.com/menu.py)]
+* All NIPS Proceedings [[site](https://papers.nips.cc/)]
+* ArXiV Preprints - Computer Vision [[site](https://arxiv.org/list/cs.CV/recent)]
+* ArXiV Preprints - Organized-ish [[site](http://www.arxiv-sanity.com/)]
+* Google Scholar - Follow Relevant Authors [[site](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)]
 
 **Community Discourse & Mentions**
-* r/MachineLearning Subreddit ([sub](https://www.reddit.com/r/MachineLearning/))
-* Twitter ([followlist]())
+* r/MachineLearning Subreddit [[sub](https://www.reddit.com/r/MachineLearning/)]
+* Twitter [[followlist]()]
 
 ### Courses & Books
 
 **Fundamentals**
-* MIT Patrick Winston - Classic Artifical Intelligence 2010 ([playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi))
-* Stanford CS231n - CNNs for Visual Recognition ([site](http://cs231n.stanford.edu/))
-* Stanford Andrew Ng - Deep Learning Specialization ([coursera](https://www.coursera.org/specializations/deep-learning))
-* Geoffrey Hinton - NNs for Machine Learning ([playlist](https://www.youtube.com/watch?v=OVwEeSsSCHE&list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv))
-* Columbia Andreas Mueller - Applied Machine Learning 2020 ([playlist](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM))
-* Carnegie Mellon University - Array of Deep Learning Coureses 2020 ([playlists](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists))
+* MIT Patrick Winston - Classic Artifical Intelligence 2010 [[playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)]
+* Stanford CS231n - CNNs for Visual Recognition [[site](http://cs231n.stanford.edu/)]
+* Stanford Andrew Ng - Deep Learning Specialization [[coursera](https://www.coursera.org/specializations/deep-learning)]
+* Geoffrey Hinton - NNs for Machine Learning [[playlist](https://www.youtube.com/watch?v=OVwEeSsSCHE&list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)]
+* Columbia Andreas Mueller - Applied Machine Learning 2020 [[playlist](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)]
+* Carnegie Mellon University - Array of Deep Learning Courses 2020 [[playlists](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists)]
 
 **Specialized**
-* deeplearning.ai - AI for Medicine Specialization ([coursera](https://www.coursera.org/specializations/ai-for-medicine))
-* Berkeley Pieter Abbeel - Deep Unsupervised Learning ([playlist](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP))
+* deeplearning.ai - AI for Medicine Specialization [[coursera](https://www.coursera.org/specializations/ai-for-medicine)]
+* Berkeley Pieter Abbeel - Deep Unsupervised Learning [[playlist](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)]
 
 **Books**
-* Dive into Deep Learning (w/PyTorch Implementations) ([site](http://d2l.ai/index.html))
+* Dive into Deep Learning (w/PyTorch Implementations) [[site](http://d2l.ai/index.html)]
 
 
 ### Talks
@@ -76,7 +76,7 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 ### Wk1 - 2020.06.29
 
 ### Wk1 - 2020.06.22
-Focus: ML fundamentals & macro-perpspectives.
+Focus: ML fundamentals & macro-perspectives.
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372) [[Notes](papers/2002_stat_modeling_2cultures.md)] <kbd>2001</kbd>
 * [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [[Notes](papers/2012_useful_things_about_ml.md)] <kbd>2012</kbd>
 
