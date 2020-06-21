@@ -96,6 +96,7 @@ Depth: Annotation-Efficient Tracking
 
 ### Wk0 - 2020.06.15
 (Trial Run) Test and improve the process.
+* [DLA: Deep Layer Aggregation](https://arxiv.org/abs/1707.06484) [[Notes]()] <kbd>CVPR 2018</kbd>
 * [DenseNet: Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT41lqeRvSWQdN7Qjc55WheEVzWYINBjNuugH3VVgwXA-HRUW8zhQYBJTdVt51LU5WjI4qHT4iQpihQ/pub)] <kbd>CVPR 2017</kbd>
 * [Delving Deep into Rectifiers: Surpassing Humans on ImageNet](https://arxiv.org/pdf/1502.01852.pdf) [[Notes]()] <kbd>ICCV 2015</kbd>
 * [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[Notes]()] <kbd>ICML 2019</kbd> 
