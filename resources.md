@@ -1,5 +1,9 @@
 Resources related to various eclectic & miscallaneous topics (not related to paper reading and learning DL).
 
+
+# PyTorch
+* Ultimate PyTorch Model Zoo (Tasks: Cls, Seg, Det, Pose) [(https://github.com/osmr/imgclsmob/tree/master/pytorch)]
+
 # Coding
 
 Github .md
@@ -8,3 +12,4 @@ Github .md
 
 NN Sanity & Visualization
 * Visualizing Full Computation Graph [[site](https://github.com/bamos/densenet.pytorch)]
+
