@@ -7,4 +7,4 @@ Github .md
 * Formal Specification [[doc](https://github.github.com/gfm/#html-blocks)]
 
 NN Sanity & Visualization
-* Visualizing Full Computation Graph [[site](https://github.com/bamos/densenet.pytorch))
+* Visualizing Full Computation Graph [[site](https://github.com/bamos/densenet.pytorch)]
