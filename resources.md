@@ -2,7 +2,7 @@ Resources related to various eclectic & miscallaneous topics (not related to pap
 
 
 # PyTorch
-* Ultimate PyTorch Model Zoo (Tasks: Cls, Seg, Det, Pose) [(https://github.com/osmr/imgclsmob/tree/master/pytorch)]
+* Ultimate PyTorch Model Zoo (Tasks: Cls, Seg, Det, Pose) [[repo](https://github.com/osmr/imgclsmob/tree/master/pytorch)]
 
 # Coding
 
