@@ -32,10 +32,10 @@ Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imagi
 # I. Resources
 
 ### Meta-Learning 
+
 Learning how to learn.
 * Paper on How to Read a Paper [[pdf](/meta/how_to_read_a_paper.pdf)]
 * Andrew Ng - Reading Research Papers & Career Advice [[vid](https://www.youtube.com/watch?v=733m6qBH-jI)]
-
 * How to Release Research Code [[git](https://github.com/paperswithcode/releasing-research-code)]
 
 ### Papers
