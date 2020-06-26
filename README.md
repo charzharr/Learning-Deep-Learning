@@ -82,24 +82,25 @@ Books
 # II. Paper Notes
 
 Wish-List:
-Breadth: ML fundamentals, macro-perspectives, and implementation.
+Breadth: ML Perspectives
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) [[Notes]()] <kbd>NIPS 2015</kbd>
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372) [[Notes](papers/2002_stat_modeling_2cultures.md)] <kbd>2001</kbd>
 * [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [[Notes](papers/2012_useful_things_about_ml.md)] <kbd>2012</kbd>
 
 ### Wk2 - 2020.06.29
-Breadth:
-
-Depth:
+Breadth: Classic Architectures
+Depth: Newer Architectures
+* [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[Notes]()] <kbd>ICML 2019</kbd>
 
 ### Wk1 - 2020.06.22
-Breadth: DL Classics
+Breadth: Classics on Network Components
 * [Delving Deep into Rectifiers: Surpassing Humans on ImageNet](https://arxiv.org/abs/1502.01852) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRqOwLjzuJ8ZKJUv7EhMS7yh4aGf2-mebJrzYst33eOrpRGt-ap__btUpOwhv0iZvelbIPSgAFIFhZ_/pub)] <kbd>ICCV 2015</kbd>
 * [Network in Network](https://arxiv.org/abs/1312.4400) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQ4TFpOLHDiMtjfQdmf-XB5_hMkOHlJRe-s45veXK89fsVecz8ub2e5m7UAhcyQod5JbTIzdXFyw4Mj/pub)] <kbd>2013</kbd>
 
-Depth: Backbones
+Depth: Effective Training
 * [Bag of Tricks for Image Classification](https://arxiv.org/abs/1812.01187) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSoh0y7XiaE7EWYvT1a_aUUFpIJ0FIrm1h0zGKQBq5RyQno7b3Wg-crOsMgppYCIXi4fM-b2k6v-JHe/pub)] <kbd>CVPR 2019</kbd> 
-* [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[Notes]()] <kbd>ICML 2019</kbd> 
+* [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489) [[Notes]()] <kbd>2017</kbd> 
+
 
 ### Wk0 - 2020.06.15
 (Trial Run) Test and improve the process.
