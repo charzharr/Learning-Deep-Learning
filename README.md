@@ -94,14 +94,14 @@ Breadth: Faster Training
 * [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQWAXjGUkP1XXVsCw5QxFRw7nSG96ypaA2Je_VCUGdmvddqraAmyn0fCsUTCO4fKCEFY-KUy6APLJbE/pub)] <kbd>NIPS 2012</kbd> 
 
 Depth: Recent Self-Supervised Techniques
-* [SimClr - A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) [[TBA]()] <kbd>2020</kbd>
-* [SimClr2 - Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) [[TBA]()] <kbd>2020</kbd>
+* [SimClr: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) [[TBA]()] <kbd>2020</kbd>
+* [SimClr2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) [[TBA]()] <kbd>2020</kbd>
 
 ### Wk1 - 2020.06.22
 Breadth: Classics on Network Components
-* [Delving Deep into Rectifiers: Surpassing Humans on ImageNet](https://arxiv.org/abs/1502.01852) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRqOwLjzuJ8ZKJUv7EhMS7yh4aGf2-mebJrzYst33eOrpRGt-ap__btUpOwhv0iZvelbIPSgAFIFhZ_/pub)] <kbd>ICCV 2015</kbd>
+* [PReLu: Delving Deep into Rectifiers: Surpassing Humans on ImageNet](https://arxiv.org/abs/1502.01852) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRqOwLjzuJ8ZKJUv7EhMS7yh4aGf2-mebJrzYst33eOrpRGt-ap__btUpOwhv0iZvelbIPSgAFIFhZ_/pub)] <kbd>ICCV 2015</kbd>
 * [Network in Network](https://arxiv.org/abs/1312.4400) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQ4TFpOLHDiMtjfQdmf-XB5_hMkOHlJRe-s45veXK89fsVecz8ub2e5m7UAhcyQod5JbTIzdXFyw4Mj/pub)] <kbd>2013</kbd>
-* [Aggregated Residual Transformations for DNNs](https://arxiv.org/abs/1611.05431) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRb2gGDAC2GEicocasLbDZ8MohQRXuqR49Xqyz8P9hWGWw06LApyQ6TX2vaMQw1fyRgN3K7fheHMz1Y/pub)] <kbd>CVPR 2017</kbd>
+* [ResNeXt: Aggregated Residual Transformations for DNNs](https://arxiv.org/abs/1611.05431) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRb2gGDAC2GEicocasLbDZ8MohQRXuqR49Xqyz8P9hWGWw06LApyQ6TX2vaMQw1fyRgN3K7fheHMz1Y/pub)] <kbd>CVPR 2017</kbd>
 
 Depth: Effective Training
 * [Bag of Tricks for Image Classification](https://arxiv.org/abs/1812.01187) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSoh0y7XiaE7EWYvT1a_aUUFpIJ0FIrm1h0zGKQBq5RyQno7b3Wg-crOsMgppYCIXi4fM-b2k6v-JHe/pub)] <kbd>CVPR 2019</kbd> 
