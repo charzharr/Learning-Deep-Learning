@@ -86,16 +86,18 @@ Breadth: ML Perspectives
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) [[Notes]()] <kbd>NIPS 2015</kbd>
 * [Statistical Modeling: The Two Cultures](https://www.semanticscholar.org/paper/Statistical-Modeling%3A-The-Two-Cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372) [[Notes](papers/2002_stat_modeling_2cultures.md)] <kbd>2001</kbd>
 * [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) [[Notes](papers/2012_useful_things_about_ml.md)] <kbd>2012</kbd>
-Architectures
+
+Architectures and Model Components
+* [Batch Normalization: Accelerating DNN Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) [[TBA]()]
 * [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[Notes]()] <kbd>ICML 2019</kbd>
 
 ### Wk2 - 2020.06.29
 Tentative To-Read
 * [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
 
-Breadth: Faster Training
+Breadth: Faster Training and Segmentation
 * [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQWAXjGUkP1XXVsCw5QxFRw7nSG96ypaA2Je_VCUGdmvddqraAmyn0fCsUTCO4fKCEFY-KUy6APLJbE/pub)] <kbd>NIPS 2012</kbd>
-* [Batch Normalization: Accelerating DNN Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) [[TBA]()]
+* [Segmentation Survey: Image Segmentation Using Deep Learning](https://arxiv.org/abs/2001.05566) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTx0Wt6Tf4cqLLDKo47uCw9AugVEwG7x0YcH4IvCcTCVDM7stfp8BM2RZuaYbYkQ-z7on6uNBg7-bdx/pub)] <kbd>2020</kbd>
 
 Depth: Recent Self-Supervised Techniques
 * [SimClr: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQfMcTFad1_TorKNQYhE2M7CE9XgLAQwuPLvJdXcXmPxZ7EaRbhcXisT_nG0alpke8nd6O3Xua-or6E/pub)] <kbd>2020</kbd>
