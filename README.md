@@ -106,7 +106,7 @@ Breadth: Faster Training and Segmentation
 * [Segmentation Survey: Image Segmentation Using Deep Learning](https://arxiv.org/abs/2001.05566) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTx0Wt6Tf4cqLLDKo47uCw9AugVEwG7x0YcH4IvCcTCVDM7stfp8BM2RZuaYbYkQ-z7on6uNBg7-bdx/pub)] <kbd>2020</kbd>
 
 Depth: Recent Self-Supervised Techniques
-* [2018 RotNet: Unsupervised Representation Learning by Predicting Image Rotations](https://arxiv.org/abs/1803.07728) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTs6ZgjAhNHocztgGIp9pW-4fJdcov1HvzqrX2b8KkGG1AE8uwBwB3nkCIGHxI_v8qvVRZhoz_dsZeA/pub)] <kbd>ICLR 2018</kbd>
+* [RotNet'18: Unsupervised Representation Learning by Predicting Image Rotations](https://arxiv.org/abs/1803.07728) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTs6ZgjAhNHocztgGIp9pW-4fJdcov1HvzqrX2b8KkGG1AE8uwBwB3nkCIGHxI_v8qvVRZhoz_dsZeA/pub)] <kbd>ICLR 2018</kbd>
 * [SimClr: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQfMcTFad1_TorKNQYhE2M7CE9XgLAQwuPLvJdXcXmPxZ7EaRbhcXisT_nG0alpke8nd6O3Xua-or6E/pub)] <kbd>2020</kbd>
 * [SimClr2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQjvgDpS65W6SbvSXyB5I0D7Z4p97bfjdAHLEa_cs6-505wctWSYEtOKr72FS8XrWWwozfx3sD-jTFc/pub)] <kbd>2020</kbd>
 * [MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQs6jb-aWYj3M5AD3TmFgOQmtZUzUP9cJVBWFxxEUjiQFS3Sf62kpK4o3sk-KHiqSdaXSN4j5MGq61i/pub)] <kbd>CVPR 2020</kbd>
