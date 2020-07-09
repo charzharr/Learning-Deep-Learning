@@ -98,7 +98,7 @@ Breadth: Segmentation
 * [Segmentation Survey (cont.): Image Segmentation Using Deep Learning](https://arxiv.org/abs/2001.05566) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTx0Wt6Tf4cqLLDKo47uCw9AugVEwG7x0YcH4IvCcTCVDM7stfp8BM2RZuaYbYkQ-z7on6uNBg7-bdx/pub)] <kbd>2020</kbd>
 
 Depth: Recent Self-Supervised Techniques
-* [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[TBP]()] <kbd>2020</kbd>
+* [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSl0pBzwQE5UFluG5V_cT1kDh4QUVgBExxW_gfwz-HempGGTBocllDwQm7T3H8xmSSUtRCRAqEaJRCd/pub)] <kbd>2020</kbd>
 
 ### Wk2 - 2020.06.29
 Breadth: Faster Training and Segmentation
