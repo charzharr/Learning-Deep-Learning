@@ -99,8 +99,10 @@ Breadth: Segmentation
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQONhlttSJmabntPQdSQK82lcOqdLd2cGawQcIU2U4TutljBFwbzIqAbNu87PJsZDJ-Zb-c0CRKjsHA/pub)] <kbd>MICCAI 2015</kbd>
 * [Segmentation Survey (cont.): Image Segmentation Using Deep Learning](https://arxiv.org/abs/2001.05566) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTx0Wt6Tf4cqLLDKo47uCw9AugVEwG7x0YcH4IvCcTCVDM7stfp8BM2RZuaYbYkQ-z7on6uNBg7-bdx/pub)] <kbd>2020</kbd>
 
-Depth: Recent Self-Supervised Techniques
+Depth: Recent Self-Supervised & Semi-Supervised Techniques
 * [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSl0pBzwQE5UFluG5V_cT1kDh4QUVgBExxW_gfwz-HempGGTBocllDwQm7T3H8xmSSUtRCRAqEaJRCd/pub)] <kbd>2020</kbd>
+* [Mean Teachers: Weight-Averaged Consistency Targets Improve SemiSL Results](https://arxiv.org/abs/1703.01780) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRDDUqIBJsqA365PgPu3JeymLLeWbkIP8x0Xc_YopjqgyJAo6qeNuTV9o6RE6dzBrWdwr739IeXDB1J/pub)] <kbd>NIPS 2017</kbd>
+* [Virtual Adversarial Training: A Regularization ](https://arxiv.org/abs/1704.03976) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQGMoYNBPHsMQkpmHOp6A1Gp-hdfEQF7e88QEUxeXXvSmo2EjMCDdMBWX1MWCyWgHAWvH9hXi5ZvzHH/pub)] <kbd>TPAMI 2018</kbd>
 
 ### Wk2 - 2020.06.29
 Breadth: Faster Training and Segmentation
