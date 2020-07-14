@@ -95,8 +95,11 @@ Architectures and Model Components
 * [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
 
 ### Wk4 - 2020.07.13
-Breadth: Segmentation + Relevant Concepts
+Breadth: Deep Learning Fundamental Concepts
 * [Computing Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/) [[TBP]()] <kbd>Distill 2019</kbd>
+* [Why Momentum Really Works](https://distill.pub/2017/momentum/) [[TBP]()] <kbd>Distill 2017</kbd>
+* [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
+* [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
 
