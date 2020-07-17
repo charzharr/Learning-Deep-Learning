@@ -102,6 +102,7 @@ Breadth: Deep Learning Fundamental Concepts
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
+* [AMDIM: ALearning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT7Gsd3Hp9RgNsJft-iRQQxBEoGCMKnHWXY0DtCSqDHR38EurpHECbGwqneFrXG3aCgr6Cssza2z8kB/pub)] <kbd>NIPS 2019</kbd>
 * [Virtual Adversarial Training: A Regularization ](https://arxiv.org/abs/1704.03976) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQGMoYNBPHsMQkpmHOp6A1Gp-hdfEQF7e88QEUxeXXvSmo2EjMCDdMBWX1MWCyWgHAWvH9hXi5ZvzHH/pub)] <kbd>TPAMI 2018</kbd>
 
 ### Wk3 - 2020.07.06
