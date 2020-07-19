@@ -94,6 +94,10 @@ Architectures and Model Components
 * [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[TBP]()] <kbd>ICML 2019</kbd>
 * [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
 
+### Wk5 - 2020.07.20
+Depth: Biomedical Segmentation & Semi/Self-Supervised Techniques
+* [Survey on Not-So-Supervised Biomedical Image Analysis Methods](https://arxiv.org/abs/1804.06353) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTNAVhQ_9AAozTKfK5pNT_tL3dh-n_nup2DH-a_ISijEX4scmxviUf_LK-f6WZPhvR_CZUu_R2ivIKG/pub)] <kbd>MIA 2018</kbd>
+
 ### Wk4 - 2020.07.13
 Breadth: Deep Learning Fundamental Concepts
 * [Computing Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/) [[TBP]()] <kbd>Distill 2019</kbd>
