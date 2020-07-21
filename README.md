@@ -101,9 +101,14 @@ Breadth: Deep Learning Fundamental Concepts
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
 ### Wk5 - 2020.07.20
-Depth: Biomedical Segmentation & Semi/Self-Supervised Techniques
+Biomedical Segmentation
 * [Survey on Not-So-Supervised Biomedical Image Analysis Methods](https://arxiv.org/abs/1804.06353) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTNAVhQ_9AAozTKfK5pNT_tL3dh-n_nup2DH-a_ISijEX4scmxviUf_LK-f6WZPhvR_CZUu_R2ivIKG/pub)] <kbd>MIA 2018</kbd>
 * [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQpK-Q8spAIy346TDsLQVIgtF59Plv1aqFA2wHMj17AUDAAXpVlmxrZ6xWkMx4OQBWkLHHJk_6enzG5/pub)] <kbd>MIDL 2018</kbd>
+* [A New Ensemble Learning Framework for 3D Biomedical Image Segmentation](https://arxiv.org/abs/1812.03945) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQsvNH53qejLk6p7ZOGH-9rx-JBLpIK0ooyzPPv5xf7iCiXzWUi9vDdcBK6VCvQ7YY3QicKS0yBv3xp/pub)] <kbd>AAAI 2018</kbd>
+
+Semi/Self-Supervised Techniques
+* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
+* []() [[]()]
 
 ### Wk4 - 2020.07.13
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
