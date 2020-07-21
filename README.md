@@ -94,17 +94,18 @@ Architectures and Model Components
 * [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[TBP]()] <kbd>ICML 2019</kbd>
 * [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
 
-### Wk5 - 2020.07.20
-Depth: Biomedical Segmentation & Semi/Self-Supervised Techniques
-* [Survey on Not-So-Supervised Biomedical Image Analysis Methods](https://arxiv.org/abs/1804.06353) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTNAVhQ_9AAozTKfK5pNT_tL3dh-n_nup2DH-a_ISijEX4scmxviUf_LK-f6WZPhvR_CZUu_R2ivIKG/pub)] <kbd>MIA 2018</kbd>
-
-### Wk4 - 2020.07.13
 Breadth: Deep Learning Fundamental Concepts
 * [Computing Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/) [[TBP]()] <kbd>Distill 2019</kbd>
 * [Why Momentum Really Works](https://distill.pub/2017/momentum/) [[TBP]()] <kbd>Distill 2017</kbd>
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+### Wk5 - 2020.07.20
+Depth: Biomedical Segmentation & Semi/Self-Supervised Techniques
+* [Survey on Not-So-Supervised Biomedical Image Analysis Methods](https://arxiv.org/abs/1804.06353) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTNAVhQ_9AAozTKfK5pNT_tL3dh-n_nup2DH-a_ISijEX4scmxviUf_LK-f6WZPhvR_CZUu_R2ivIKG/pub)] <kbd>MIA 2018</kbd>
+* [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQpK-Q8spAIy346TDsLQVIgtF59Plv1aqFA2wHMj17AUDAAXpVlmxrZ6xWkMx4OQBWkLHHJk_6enzG5/pub)] <kbd>MIDL 2018</kbd>
+
+### Wk4 - 2020.07.13
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
 * [AMDIM: ALearning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT7Gsd3Hp9RgNsJft-iRQQxBEoGCMKnHWXY0DtCSqDHR38EurpHECbGwqneFrXG3aCgr6Cssza2z8kB/pub)] <kbd>NIPS 2019</kbd>
 * [PIRL: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSsb9J2PUPIJWDJhWHC0pz-x4ddbJnN2IXnnlwkR9s6bABWtTe2u1xqM_z5vU2kM9ECueksVWPzoLvq/pub)] <kbd>CVPR 2020</kbd>
