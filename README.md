@@ -105,6 +105,7 @@ Biomedical Segmentation
 * [Survey on Not-So-Supervised Biomedical Image Analysis Methods](https://arxiv.org/abs/1804.06353) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTNAVhQ_9AAozTKfK5pNT_tL3dh-n_nup2DH-a_ISijEX4scmxviUf_LK-f6WZPhvR_CZUu_R2ivIKG/pub)] <kbd>MIA 2018</kbd>
 * [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQpK-Q8spAIy346TDsLQVIgtF59Plv1aqFA2wHMj17AUDAAXpVlmxrZ6xWkMx4OQBWkLHHJk_6enzG5/pub)] <kbd>MIDL 2018</kbd>
 * [A New Ensemble Learning Framework for 3D Biomedical Image Segmentation](https://arxiv.org/abs/1812.03945) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQsvNH53qejLk6p7ZOGH-9rx-JBLpIK0ooyzPPv5xf7iCiXzWUi9vDdcBK6VCvQ7YY3QicKS0yBv3xp/pub)] <kbd>AAAI 2018</kbd>
+* [3D UNet: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650) [[Notes](https://docs.google.com/document/d/e/2PACX-1vREDFzO_LbTAzI48jUSg0kwwjCMLaCgOTuQEeJTWMNzXsj-zbKwv1wzJBE1HivNFunK2dB1nie7eqcA/pub)] <kbd>MICCAI 2016</kbd>
 
 Semi/Self-Supervised Techniques
 * [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
