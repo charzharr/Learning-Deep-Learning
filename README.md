@@ -100,6 +100,11 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+### Wk6 - 2020.07.27
+Biomedical Segmentation + Semi-Supervised Techniques
+* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
+
+
 ### Wk5 - 2020.07.20
 Biomedical Segmentation
 * [Survey on Not-So-Supervised Biomedical Image Analysis Methods](https://arxiv.org/abs/1804.06353) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTNAVhQ_9AAozTKfK5pNT_tL3dh-n_nup2DH-a_ISijEX4scmxviUf_LK-f6WZPhvR_CZUu_R2ivIKG/pub)] <kbd>MIA 2018</kbd>
@@ -110,8 +115,7 @@ Biomedical Segmentation
 * [VoxResNet: Deep Voxelwise Residual Networks for Brain Segmentation from 3D MR Images](https://arxiv.org/abs/1608.05895) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTfyqbwzbGVz8MhLwxfC80m0HS9uvX2TlceCwhDPwpxEKvaurZ5SaT5b0v84Ujt6FPmJzRhqVJ856b1/pub)] <kbd>JNeuroImage 2018</kbd>
 
 Semi/Self-Supervised Techniques
-* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
-
+* [Semi-Supervised Medical Image Segmentation via Learning Consistency under Transformations](https://arxiv.org/abs/1911.01218) [[Notes](https://docs.google.com/document/d/e/2PACX-1vST9F-ZTQO0mFV-sS6BRbGooAmqjaCVmpSfLTyE00taELDgI8YoSVhmzT3QmxCjc3kWUAVjRErYu1SQ/pub)] <kbd>MICCAI 2019</kbd>
 
 ### Wk4 - 2020.07.13
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
