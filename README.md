@@ -113,9 +113,7 @@ Biomedical Segmentation
 * [3D UNet: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650) [[Notes](https://docs.google.com/document/d/e/2PACX-1vREDFzO_LbTAzI48jUSg0kwwjCMLaCgOTuQEeJTWMNzXsj-zbKwv1wzJBE1HivNFunK2dB1nie7eqcA/pub)] <kbd>MICCAI 2016</kbd>
 * [DenseVoxNet: Automatic 3D Cardio MR Segmentation w/Densely-Connected Volumetric CNNs](https://arxiv.org/abs/1708.00573) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTfLFFWjpy9JoRy_00PUHNLtExj48I6enj9-uGAp8oP7DOyeY2ok7NisD8S_WTtU_SEf1Y1WbTngB9p/pub)] <kbd>MICCAI 2017</kbd>
 * [VoxResNet: Deep Voxelwise Residual Networks for Brain Segmentation from 3D MR Images](https://arxiv.org/abs/1608.05895) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTfyqbwzbGVz8MhLwxfC80m0HS9uvX2TlceCwhDPwpxEKvaurZ5SaT5b0v84Ujt6FPmJzRhqVJ856b1/pub)] <kbd>JNeuroImage 2018</kbd>
-
-Semi/Self-Supervised Techniques
-* [Semi-Supervised Medical Image Segmentation via Learning Consistency under Transformations](https://arxiv.org/abs/1911.01218) [[Notes](https://docs.google.com/document/d/e/2PACX-1vST9F-ZTQO0mFV-sS6BRbGooAmqjaCVmpSfLTyE00taELDgI8YoSVhmzT3QmxCjc3kWUAVjRErYu1SQ/pub)] <kbd>MICCAI 2019</kbd>
+* [2D Semi-Supervised Medical Image Segmentation via Learning Consistency under Transformations](https://arxiv.org/abs/1911.01218) [[Notes](https://docs.google.com/document/d/e/2PACX-1vST9F-ZTQO0mFV-sS6BRbGooAmqjaCVmpSfLTyE00taELDgI8YoSVhmzT3QmxCjc3kWUAVjRErYu1SQ/pub)] <kbd>MICCAI 2019</kbd>
 
 ### Wk4 - 2020.07.13
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
