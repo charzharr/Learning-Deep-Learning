@@ -104,7 +104,7 @@ Breadth: Deep Learning Fundamental Concepts
 Biomedical Segmentation + Semi-Supervised Techniques
 
 Classics
-* [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT9vGcYUxYV9weXLnfmJStsDKsTAzMEhCUlguczrP3ADMdP2d-P8h6E1JRXalfwG_q7RmelqHYA7p6Y/pub)] <kbd>ICML 2009<kbd>
+* [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT9vGcYUxYV9weXLnfmJStsDKsTAzMEhCUlguczrP3ADMdP2d-P8h6E1JRXalfwG_q7RmelqHYA7p6Y/pub)] <kbd>ICML 2009</kbd>
 * [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
 
 
