@@ -102,6 +102,7 @@ Breadth: Deep Learning Fundamental Concepts
 
 ### Wk6 - 2020.07.27
 Biomedical Segmentation + Semi-Supervised Techniques
+* [TCSM: Transformation Consistent Self-Ensembling Model for SemiSup Medical Segmentation](https://arxiv.org/abs/1903.00348) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRafQh3tPlVVo4KLrhfuG-5rYFXClXzM1XcWrs3XplFZ1cmLfjpfaEIvPrAL-X9bNY47grovCdWY2eQ/pub)] <kbd>NNLS 2020</kbd>
 
 Classics
 * [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT9vGcYUxYV9weXLnfmJStsDKsTAzMEhCUlguczrP3ADMdP2d-P8h6E1JRXalfwG_q7RmelqHYA7p6Y/pub)] <kbd>ICML 2009</kbd>
