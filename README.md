@@ -100,6 +100,10 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+### Wk7 - 2020.08.03
+Biomedical Segmentation + Limited Annotation Techniques
+* [Suggestive Annotation of Brain Tumour Images with Gradient-guided Sampling](https://arxiv.org/abs/2006.14984) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQ3SlVTLmWYZ2udV2psMwvlIexfrv33Br3NL6TUWcFJiK3HEGZlR5004iZV-E3Ww1XXIZBxbmSBh79m/pub)] <kbd>MICCAI 2020</kbd>
+
 ### Wk6 - 2020.07.27
 Biomedical Segmentation + Semi-Supervised Techniques
 * [TCSM: Transformation Consistent Self-Ensembling Model for SemiSup Medical Segmentation](https://arxiv.org/abs/1903.00348) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRafQh3tPlVVo4KLrhfuG-5rYFXClXzM1XcWrs3XplFZ1cmLfjpfaEIvPrAL-X9bNY47grovCdWY2eQ/pub)] <kbd>NNLS 2020</kbd>
