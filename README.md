@@ -104,6 +104,7 @@ Breadth: Deep Learning Fundamental Concepts
 Biomedical Segmentation + Limited Annotation Techniques
 * [Suggestive Annotation of Brain Tumour Images with Gradient-guided Sampling](https://arxiv.org/abs/2006.14984) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQ3SlVTLmWYZ2udV2psMwvlIexfrv33Br3NL6TUWcFJiK3HEGZlR5004iZV-E3Ww1XXIZBxbmSBh79m/pub)] <kbd>MICCAI 2020</kbd>
 * [ISIC17 Winner: Improving Dermoscopic Image Segmentation w/Enhanced Conv-Deconv Nets](https://arxiv.org/abs/1709.09780) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRX9cO_ZYqnjvcicx5gCWjA9HbekU5R68yVZdPR_YZ65kqNIA0l5wygt4kXuTfd79CP01gIICCnwM_7/pub)] <kbd>IEE BHI Journal 2017</kbd>
+* [Difficulty-aware Meta-learning for Rare Disease Diagnosis](https://arxiv.org/abs/1907.00354) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTh0d6iF3GEEyFKk51EVm6WIV_UADYEm4x9Glwj9j1Iyl9I_qe2A4BzF9VMSPqFuvKVJty7SVtr6aNU/pub)] <kbd>MICCAI2020</kbd>
 
 Free-Hand Notes on Segmentation Models and Training Tricks
 * [BIBM 2019 Segmentation Papers](https://drive.google.com/file/d/1EYPLUgLK0cm7FjOFixLAg6JvjqM56D0g/view?usp=sharing) <kbd>Goodnotes</kbd>
