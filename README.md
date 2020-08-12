@@ -103,6 +103,8 @@ Breadth: Deep Learning Fundamental Concepts
 ## Wk8 - 2020.08.10
 Biomedical Segmentation + Limited Annotation Techniques
 * [UA-MET: Uncertainty-aware Self-ensembling for SemiSup 3D Left Atrium Segmentation](https://arxiv.org/abs/1907.07034) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQxSVM3qzF1GxtHy3VskCAWBf82SbaFflJvdlvG-RPDU_O3BGHwDDBrD22TUcl2lho9F3g98iCbcsVL/pub)] <kbd>MICCAI 2019</kbd>
+* [SSL+Size-Regressor: Curriculum semi-supervised segmentation](https://arxiv.org/abs/1904.05236) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTJKSorbQLN5QIZMSWgUrwIBYpFVVKLJ2SvxfgXZF6j9eYIsxC8VNMJNj1QZK_Z9aMJBLD63_gHTZ59/pub)] <kbd>MICCAI 2019</kbd>
+* []() [[]()] <kbd></kbd>
 * []() [[]()] <kbd></kbd>
 
 ### Wk7 - 2020.08.03
