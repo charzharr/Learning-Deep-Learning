@@ -72,10 +72,14 @@ Books
 * Dive into Deep Learning (w/PyTorch Implementations) [[site](http://d2l.ai/index.html)]
 
 
-### Talks
+### Misc
+
+Biomedical Topics
+* Biomedical Image Segmentation Loss Functions in PyTorch [[repo](https://github.com/JunMa11/SegLoss)]
+* Paper List on Uncertainty Theory and Applications in Medical Analysis [[repo](https://github.com/JunMa11/MedUncertainty)]
 
 
-### Tasks
+Conferences, Events, and Challenges
 * Computer Vision Conferences [[site](http://conferences.visionbib.com/Iris-Conferences.html)]
 * Biomedical Challenges [[site](https://grand-challenge.org/challenges/)]
 
