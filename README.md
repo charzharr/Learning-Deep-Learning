@@ -106,12 +106,17 @@ Breadth: Deep Learning Fundamental Concepts
 
 ### Wk8 - 2020.08.10
 *(reduced reading due to paper submission deadline)* <br>
-Biomedical Segmentation + Limited Annotation Techniques
+Biomedical Analysis + Limited Annotation Techniques
+* []() [[]()] <kbd></kbd>
+* []() [[]()] <kbd></kbd>
+
+### Wk8 - 2020.08.10
+*(reduced reading due to paper submission deadline)* <br>
+Biomedical Segmentation/Classification + Limited Annotation Techniques
 * [UA-MET: Uncertainty-aware Self-ensembling for SemiSup 3D Left Atrium Segmentation](https://arxiv.org/abs/1907.07034) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQxSVM3qzF1GxtHy3VskCAWBf82SbaFflJvdlvG-RPDU_O3BGHwDDBrD22TUcl2lho9F3g98iCbcsVL/pub)] <kbd>MICCAI 2019</kbd>
 * [SSL+Size-Regressor: Curriculum semi-supervised segmentation](https://arxiv.org/abs/1904.05236) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTJKSorbQLN5QIZMSWgUrwIBYpFVVKLJ2SvxfgXZF6j9eYIsxC8VNMJNj1QZK_Z9aMJBLD63_gHTZ59/pub)] <kbd>MICCAI 2019</kbd>
 * [MICCAI'19 Best Paper - Segmentation of the Prostate Clinical Target Volume in Ultrasound Images](https://www.sciencedirect.com/science/article/abs/pii/S1361841519300623?via%3Dihub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQ3-QN9qDZdxGzNGaR3eVEcku4JChUrv-s85ItknYT5ECEfQXw_WgwebvEHea55tDUNlBuOfv7r8ZnR/pub)] <kbd>MICCAI 2019</kbd>
 * [An Active Learning Approach for Reducing Annotation Cost in Skin Lesion Analysis](https://arxiv.org/abs/1909.02344) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQbES1uib9h7vhToUZWYAf74Sw70i9xWwFsXNYFDdy2Ho7O8uAoBqPaifbSAXgE9jkIBWJWpPePZB7G/pub)] <kbd>MIML 2019</kbd>
-* []() [[]()] <kbd></kbd>
 
 ### Wk7 - 2020.08.03
 Biomedical Segmentation + Limited Annotation Techniques
