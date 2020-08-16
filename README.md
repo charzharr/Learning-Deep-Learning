@@ -104,8 +104,8 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
-## Wk8 - 2020.08.10
-*(reduced reading due to paper submission deadline)*
+### Wk8 - 2020.08.10
+*(reduced reading due to paper submission deadline)* <br>
 Biomedical Segmentation + Limited Annotation Techniques
 * [UA-MET: Uncertainty-aware Self-ensembling for SemiSup 3D Left Atrium Segmentation](https://arxiv.org/abs/1907.07034) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQxSVM3qzF1GxtHy3VskCAWBf82SbaFflJvdlvG-RPDU_O3BGHwDDBrD22TUcl2lho9F3g98iCbcsVL/pub)] <kbd>MICCAI 2019</kbd>
 * [SSL+Size-Regressor: Curriculum semi-supervised segmentation](https://arxiv.org/abs/1904.05236) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTJKSorbQLN5QIZMSWgUrwIBYpFVVKLJ2SvxfgXZF6j9eYIsxC8VNMJNj1QZK_Z9aMJBLD63_gHTZ59/pub)] <kbd>MICCAI 2019</kbd>
