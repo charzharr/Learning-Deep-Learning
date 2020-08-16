@@ -106,6 +106,9 @@ Breadth: Deep Learning Fundamental Concepts
 
 ### Wk9 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
+Contrastive Learning
+* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
+
 Biomedical Analysis + Limited Annotation Techniques
 * []() [[]()] <kbd></kbd>
 * []() [[]()] <kbd></kbd>
@@ -137,8 +140,6 @@ Biomedical Segmentation + Semi-Supervised Techniques
 
 Classics
 * [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT9vGcYUxYV9weXLnfmJStsDKsTAzMEhCUlguczrP3ADMdP2d-P8h6E1JRXalfwG_q7RmelqHYA7p6Y/pub)] <kbd>ICML 2009</kbd>
-* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
-
 
 ### Wk5 - 2020.07.20
 Biomedical Segmentation
