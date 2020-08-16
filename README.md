@@ -104,9 +104,11 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
-### Wk8 - 2020.08.10
+### Wk9 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
 Biomedical Analysis + Limited Annotation Techniques
+* []() [[]()] <kbd></kbd>
+* []() [[]()] <kbd></kbd>
 * []() [[]()] <kbd></kbd>
 * []() [[]()] <kbd></kbd>
 
