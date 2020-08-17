@@ -110,7 +110,7 @@ Contrastive Learning
 * [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
 
 Biomedical Analysis + Limited Annotation Techniques
-* []() [[]()] <kbd></kbd>
+* [Extreme Consistency: Overcoming Annotation Scarcity and Domain Shifts](https://arxiv.org/abs/2004.11966) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSptLgbssAUkyMjhh5KVkkMgIWmeSIlJ1Wz4GTW42_F4ldJd6Oj1RyOQj3IcKce5VBilXVcH9c70bNM/pub)] <kbd>2020</kbd>
 * []() [[]()] <kbd></kbd>
 * []() [[]()] <kbd></kbd>
 * []() [[]()] <kbd></kbd>
