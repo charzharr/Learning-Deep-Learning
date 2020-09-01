@@ -110,7 +110,7 @@ Contrastive Learning
 * [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
 
 Biomedical Analysis + Limited Annotation Techniques
-* []() [[]()] <kbd></kbd>
+* [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSjTm15SNsBZGrzNwiI5pY46frMhhHLNbUGJpkCPKAXW0k2JjaWyEc6Nuh5LA50zSwimb4iKQ8gX3jL/pub)] <kbd>IPMI 2019</kbd>
 * []() [[]()] <kbd></kbd>
 
 ### Wk10 - 2020.08.17
