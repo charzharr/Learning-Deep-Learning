@@ -119,11 +119,6 @@ Misc
 * [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) [[Notes](https://docs.google.com/document/d/e/2PACX-1vS2naSByqJpVY0qMLixlaexV0qRA0Kl7ptjb8NYZedQxwtOmPyCBpmL_mjX9AMVlx1-fg55NBDDvpTS/pub)] <kbd>ICML 2018</kbd>
 * [CVPR'18 Interpretability Workshop](https://www.youtube.com/results?search_query=cvpr+2018+interpretability) [[Notes](https://drive.google.com/file/d/1KtKCxmw7-GvM7d8_kckxJNUk8hfWo28S/view?usp=sharing)] <kbd>Goodnotes</kbd>
 
-Biomedical Analysis + Limited Annotation Techniques
-* [Extreme Consistency: Overcoming Annotation Scarcity and Domain Shifts](https://arxiv.org/abs/2004.11966) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSptLgbssAUkyMjhh5KVkkMgIWmeSIlJ1Wz4GTW42_F4ldJd6Oj1RyOQj3IcKce5VBilXVcH9c70bNM/pub)] <kbd>2020</kbd>
-* [Semi-Supervised Learning for Netowrk-Based Cardiac MR Segmentation](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_29) [[Notes](https://docs.google.com/document/d/e/2PACX-1vR47l8m2ftyT4cDVBok3_FAKpkfr6RzbjqVizuUO3p_5L8Wzto1lJRvl1Nns6tbgDa3aYD9FaIlV7MY/pub)] <kbd>MICCAI 2017</kbd>
-* [MoCo v2: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQ1ukREnWUyWWs32-ljY3XYMMNkstf9k_C3zwqUns3udc93jNfSUQU2Y-wYCeRdg5oJ8q9ZmtqEE6cb/pub)] <kbd>2020</kbd>   
-
 ### Wk9 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
 Biomedical Analysis + Limited Annotation Techniques
