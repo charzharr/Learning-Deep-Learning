@@ -111,7 +111,7 @@ Contrastive Learning
 
 Biomedical Analysis + Limited Annotation Techniques
 * [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSjTm15SNsBZGrzNwiI5pY46frMhhHLNbUGJpkCPKAXW0k2JjaWyEc6Nuh5LA50zSwimb4iKQ8gX3jL/pub)] <kbd>IPMI 2019</kbd>
-* []() [[]()] <kbd></kbd>
+* [HRNet: Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQWf9OgmIoicoWzuu4wElaJsmAo3Rs87-pY_f6nk-3ybQ_6O3GBWu8XQ8nGpAfKfkGNIQPd27lgihB_/pub)] <kbd>CVPR 2019</kbd>
 
 ### Wk10 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
