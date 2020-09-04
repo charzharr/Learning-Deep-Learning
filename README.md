@@ -104,14 +104,18 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+### Wk12 - 2020.09.06
+Learning without Labels
+* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
+* [Rethinking Pre-Training and Self-Training (Object Detection)](https://arxiv.org/abs/2006.06882) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTCDEjFOU8kfxQFiB5spdPYBU_MxsUYiVUIQmK_4SCp48POcyoP7DifS5VuzhW0Y7ajD22vRHjUz78V/pub)] <kbd>2020</kbd>
 
 ### Wk11 - 2020.08.31
-Contrastive Learning
-* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
+Tracking
+* []
 
 Biomedical Analysis + Limited Annotation Techniques
 * [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSjTm15SNsBZGrzNwiI5pY46frMhhHLNbUGJpkCPKAXW0k2JjaWyEc6Nuh5LA50zSwimb4iKQ8gX3jL/pub)] <kbd>IPMI 2019</kbd>
-* [HRNet: Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQWf9OgmIoicoWzuu4wElaJsmAo3Rs87-pY_f6nk-3ybQ_6O3GBWu8XQ8nGpAfKfkGNIQPd27lgihB_/pub)] <kbd>CVPR 2019</kbd>
+* [HRNet: Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRnByCt7RtzBq0h99oGvwRO6JI0MJJZaIjCPt60DxGtpZZILIErmIR3ZEGxicMmNuNK3dUf7xcab1CM/pub)] [[Talk](https://docs.google.com/document/d/e/2PACX-1vQWf9OgmIoicoWzuu4wElaJsmAo3Rs87-pY_f6nk-3ybQ_6O3GBWu8XQ8nGpAfKfkGNIQPd27lgihB_/pub)] <kbd>CVPR 2019</kbd>
 
 ### Wk10 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
