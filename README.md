@@ -111,11 +111,16 @@ Learning without Labels
 
 ### Wk11 - 2020.08.31
 Tracking
-* []
+* [Detect to Track and Track to Detect](https://arxiv.org/abs/1710.03958) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQSaMl00ZygtOFIs-52GTHxlnirvxNxCIb1LKp5naPwA6rDQ77MzA07HDi7pHEucEdMd5D1hVTxlDUR/pub)] <kbd>ICCV 2017</kbd>
+* []() [[]()) <kbd>ICCV 2017</kbd>
 
-Biomedical Analysis + Limited Annotation Techniques
+Localization Architectures
 * [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSjTm15SNsBZGrzNwiI5pY46frMhhHLNbUGJpkCPKAXW0k2JjaWyEc6Nuh5LA50zSwimb4iKQ8gX3jL/pub)] <kbd>IPMI 2019</kbd>
 * [HRNet: Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRnByCt7RtzBq0h99oGvwRO6JI0MJJZaIjCPt60DxGtpZZILIErmIR3ZEGxicMmNuNK3dUf7xcab1CM/pub)] [[Talk](https://docs.google.com/document/d/e/2PACX-1vQWf9OgmIoicoWzuu4wElaJsmAo3Rs87-pY_f6nk-3ybQ_6O3GBWu8XQ8nGpAfKfkGNIQPd27lgihB_/pub)] <kbd>CVPR 2019</kbd>
+
+Bloomberg - Foundations of Machine Learning
+* [L1/2 Black Box Machine Learning](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI) [[Notes]()] <kbd>2018</kbd>
+* [L3 Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI&index=4) [[Notes]()]
 
 ### Wk10 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
