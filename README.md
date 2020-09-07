@@ -119,8 +119,8 @@ Localization Architectures
 * [HRNet: Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRnByCt7RtzBq0h99oGvwRO6JI0MJJZaIjCPt60DxGtpZZILIErmIR3ZEGxicMmNuNK3dUf7xcab1CM/pub)] [[Talk](https://docs.google.com/document/d/e/2PACX-1vQWf9OgmIoicoWzuu4wElaJsmAo3Rs87-pY_f6nk-3ybQ_6O3GBWu8XQ8nGpAfKfkGNIQPd27lgihB_/pub)] <kbd>CVPR 2019</kbd>
 
 Bloomberg - Foundations of Machine Learning
-* [L1/2 Black Box Machine Learning](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI) [[Notes]()] <kbd>2018</kbd>
-* [L3 Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI&index=4) [[Notes]()]
+* [L1/2 Black Box Machine Learning](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI) [[Notes](https://drive.google.com/file/d/1sjycPqS2RsCtTIm9RGaooazd1fqC6Ozr/view?usp=sharing)] <kbd>2018</kbd>
+* [L3 Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI&index=4) [[Notes](https://drive.google.com/file/d/1m2oPuX_NPiXU-F9oZa473x6doOvTn9y9/view?usp=sharing)] <kbd>2018</kbd>
 
 ### Wk10 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
