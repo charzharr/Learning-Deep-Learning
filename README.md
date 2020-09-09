@@ -105,6 +105,9 @@ Breadth: Deep Learning Fundamental Concepts
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
 ### Wk12 - 2020.09.06
+Tracking
+* [DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTGD7l2kGYEIGy6CParXPcRVR6WZeVcACCiS-LtoEeqjvH7ip-3TdVcC4nPtmDf5Gurz0VknFtyW-u6/pub)] <kbd>ICIP 2017</kbd>
+
 Learning without Labels
 * [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
 * [Rethinking Pre-Training and Self-Training (Object Detection)](https://arxiv.org/abs/2006.06882) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTCDEjFOU8kfxQFiB5spdPYBU_MxsUYiVUIQmK_4SCp48POcyoP7DifS5VuzhW0Y7ajD22vRHjUz78V/pub)] <kbd>2020</kbd>
@@ -112,7 +115,7 @@ Learning without Labels
 ### Wk11 - 2020.08.31
 Tracking
 * [Detect to Track and Track to Detect](https://arxiv.org/abs/1710.03958) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQSaMl00ZygtOFIs-52GTHxlnirvxNxCIb1LKp5naPwA6rDQ77MzA07HDi7pHEucEdMd5D1hVTxlDUR/pub)] <kbd>ICCV 2017</kbd>
-* []() [[]()) <kbd>ICCV 2017</kbd>
+* [SORT: Simple Online and Realtime Tracking](https://arxiv.org/abs/1602.00763) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRfCLKnU5ykHa_gn6YWANxCSWjTtmhVA8Ox29oEu1pTnIJ3aUTkSKPaDVytb572hktPjheux8yYdFDD/pub)) <kbd>ICIP 2016</kbd>
 
 Localization Architectures
 * [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSjTm15SNsBZGrzNwiI5pY46frMhhHLNbUGJpkCPKAXW0k2JjaWyEc6Nuh5LA50zSwimb4iKQ8gX3jL/pub)] <kbd>IPMI 2019</kbd>
