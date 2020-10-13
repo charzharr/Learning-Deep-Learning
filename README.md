@@ -104,18 +104,23 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+
+### Wk13 - 2020.10.13
+Biomedical Semi-Supervised Learning
+* [Dual Teacher: Integrating Intra-Domain and Inter-Domain Teachers for Cardiac Segmentation](https://arxiv.org/abs/2007.06279) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQvzHR-Rl3uLqi_Tj9geA6GxAYMNQvjTGracgcLIPw6wub18k95_bfpm85gw8O-Y4qcfcgUQs4IZvlo/pub)] <kbd>MICCAI 2020</kbd>
 ### Wk12 - 2020.09.06
 Tracking
-* [DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTGD7l2kGYEIGy6CParXPcRVR6WZeVcACCiS-LtoEeqjvH7ip-3TdVcC4nPtmDf5Gurz0VknFtyW-u6/pub)] <kbd>ICIP 2017</kbd>
+
 
 Learning without Labels
 * [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
-* [Rethinking Pre-Training and Self-Training (Object Detection)](https://arxiv.org/abs/2006.06882) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTCDEjFOU8kfxQFiB5spdPYBU_MxsUYiVUIQmK_4SCp48POcyoP7DifS5VuzhW0Y7ajD22vRHjUz78V/pub)] <kbd>2020</kbd>
+
 
 ### Wk11 - 2020.08.31
 Tracking
 * [Detect to Track and Track to Detect](https://arxiv.org/abs/1710.03958) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQSaMl00ZygtOFIs-52GTHxlnirvxNxCIb1LKp5naPwA6rDQ77MzA07HDi7pHEucEdMd5D1hVTxlDUR/pub)] <kbd>ICCV 2017</kbd>
 * [SORT: Simple Online and Realtime Tracking](https://arxiv.org/abs/1602.00763) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRfCLKnU5ykHa_gn6YWANxCSWjTtmhVA8Ox29oEu1pTnIJ3aUTkSKPaDVytb572hktPjheux8yYdFDD/pub)) <kbd>ICIP 2016</kbd>
+* [DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTGD7l2kGYEIGy6CParXPcRVR6WZeVcACCiS-LtoEeqjvH7ip-3TdVcC4nPtmDf5Gurz0VknFtyW-u6/pub)] <kbd>ICIP 2017</kbd>
 
 Localization Architectures
 * [CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation](https://arxiv.org/abs/1903.05358) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSjTm15SNsBZGrzNwiI5pY46frMhhHLNbUGJpkCPKAXW0k2JjaWyEc6Nuh5LA50zSwimb4iKQ8gX3jL/pub)] <kbd>IPMI 2019</kbd>
@@ -129,7 +134,9 @@ Bloomberg - Foundations of Machine Learning
 *(reduced reading due to paper submission deadline)* <br>
 Misc
 * [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) [[Notes](https://docs.google.com/document/d/e/2PACX-1vS2naSByqJpVY0qMLixlaexV0qRA0Kl7ptjb8NYZedQxwtOmPyCBpmL_mjX9AMVlx1-fg55NBDDvpTS/pub)] <kbd>ICML 2018</kbd>
+* [Rethinking Pre-Training and Self-Training (Object Detection)](https://arxiv.org/abs/2006.06882) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTCDEjFOU8kfxQFiB5spdPYBU_MxsUYiVUIQmK_4SCp48POcyoP7DifS5VuzhW0Y7ajD22vRHjUz78V/pub)] <kbd>2020</kbd>
 * [CVPR'18 Interpretability Workshop](https://www.youtube.com/results?search_query=cvpr+2018+interpretability) [[Notes](https://drive.google.com/file/d/1KtKCxmw7-GvM7d8_kckxJNUk8hfWo28S/view?usp=sharing)] <kbd>Goodnotes</kbd>
+
 
 ### Wk9 - 2020.08.17
 *(reduced reading due to paper submission deadline)* <br>
