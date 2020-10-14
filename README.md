@@ -97,6 +97,7 @@ Architectures and Model Components
 * [Batch Normalization: Accelerating DNN Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) [[TBP]()]
 * [EfficientNet: Rethinking Model Scaling for CNNs](https://arxiv.org/abs/1905.11946) [[TBP]()] <kbd>ICML 2019</kbd>
 * [Selective Kernel Networks](https://arxiv.org/abs/1903.06586)
+* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
 
 Breadth: Deep Learning Fundamental Concepts
 * [Computing Receptive Fields of CNNs](https://distill.pub/2019/computing-receptive-fields/) [[TBP]()] <kbd>Distill 2019</kbd>
@@ -105,16 +106,12 @@ Breadth: Deep Learning Fundamental Concepts
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
 
-### Wk13 - 2020.10.13
+### Wk12 - 2020.10.13
 Biomedical Semi-Supervised Learning
 * [Dual Teacher: Integrating Intra-Domain and Inter-Domain Teachers for Cardiac Segmentation](https://arxiv.org/abs/2007.06279) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQvzHR-Rl3uLqi_Tj9geA6GxAYMNQvjTGracgcLIPw6wub18k95_bfpm85gw8O-Y4qcfcgUQs4IZvlo/pub)] <kbd>MICCAI 2020</kbd>
-### Wk12 - 2020.09.06
-Tracking
 
-
-Learning without Labels
-* [NCE: New Estimation Principle for Unnormalized Statistical Models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf) [[]()]
-
+Noisy Labels
+* [Confident Learning: Characterizing Label Errors: Confident Learning for Noisy-Labeled Image Segmentation](https://link.springer.com/chapter/10.1007%2F978-3-030-59710-8_70) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQY4X3BFY47fDdL6DaY1C-8zKS-ZYYTMrxhNN-8QFBH5gcLl0CbnRqs4D7objlyekRozGaGId1188tO/pub)] <kbd>MICCAI 2020</kbd>
 
 ### Wk11 - 2020.08.31
 Tracking
