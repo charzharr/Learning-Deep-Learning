@@ -109,6 +109,8 @@ Breadth: Deep Learning Fundamental Concepts
 ### Wk12 - 2020.10.13
 Biomedical Semi-Supervised Learning
 * [Dual Teacher: Integrating Intra-Domain and Inter-Domain Teachers for Cardiac Segmentation](https://arxiv.org/abs/2007.06279) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQvzHR-Rl3uLqi_Tj9geA6GxAYMNQvjTGracgcLIPw6wub18k95_bfpm85gw8O-Y4qcfcgUQs4IZvlo/pub)] <kbd>MICCAI 2020</kbd>
+* [MMT-PSM: Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell Instance Segmentation](https://arxiv.org/abs/2007.10787) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRTLIAOY4MOvQKbBcrlIBkv_ODRe2WX_zJL_A37I2GXEjP04deP4E_iJQ21AOg0n5E5rhTH64InkfCb/pub)] <kbd>MICCAI 2020</kbd>
+
 
 Noisy Labels
 * [Confident Learning: Characterizing Label Errors: Confident Learning for Noisy-Labeled Image Segmentation](https://link.springer.com/chapter/10.1007%2F978-3-030-59710-8_70) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQY4X3BFY47fDdL6DaY1C-8zKS-ZYYTMrxhNN-8QFBH5gcLl0CbnRqs4D7objlyekRozGaGId1188tO/pub)] <kbd>MICCAI 2020</kbd>
