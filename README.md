@@ -105,6 +105,10 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+### Wk13 - 2020.10.20
+Biomedical Semi-Supervised Learning
+* [Semi-supervised Machine Learning with MixMatch and Equivalence Classes](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_12) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTJY1VzWuhzb68JuS8SJwhEtaaNldCRb--Q6yyqB4gYqd4Rh9CEE254x-iiAD2OEFYAYTmGzAdFPUXd/pub)] <kbd>MICCAI 2020</kbd>
+* []() [[Notes]()] <kbd>MICCAI 2020</kbd>
 
 ### Wk12 - 2020.10.13
 Biomedical Semi-Supervised Learning
