@@ -110,7 +110,7 @@ Semi-Supervised Learning
 * [(Topic) Null Space Deep Learning](https://docs.google.com/document/d/e/2PACX-1vTID-8qXRE4se-u_qtHYv017llQ140QyFigJb64WsJBLBRBFpbEoS07wphtW8d7FMtmfvx7AtqoEkCf/pub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTID-8qXRE4se-u_qtHYv017llQ140QyFigJb64WsJBLBRBFpbEoS07wphtW8d7FMtmfvx7AtqoEkCf/pub)]
 * [Semi-supervised Machine Learning with MixMatch and Equivalence Classes](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_12) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTJY1VzWuhzb68JuS8SJwhEtaaNldCRb--Q6yyqB4gYqd4Rh9CEE254x-iiAD2OEFYAYTmGzAdFPUXd/pub)] <kbd>MICCAI 2020</kbd>
 * [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRhkat4tAj1EY21Cmrab_dciZn4Y1JtedTgXdxojXTkW4nmm9TimoLxcUVXIoLH9UFJrIiyqGlyoSB7/pub)] <kbd>NIPS 2019</kbd>
-* []() [[Notes]()] <kbd>MICCAI 2020</kbd>
+* [Pi-Model: Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTWEr25XPcQfJ8ijvITZ8pwgGBbZ5pfb6Ueu_yKmWs_rX0yMpV4jr0vneIr1KjQaMQzJiGsqyImd2sJ/pub)] <kbd>ICLR 2017</kbd>
 * []() [[Notes]()] <kbd>MICCAI 2020</kbd>
 
 ### Wk12 - 2020.10.13
