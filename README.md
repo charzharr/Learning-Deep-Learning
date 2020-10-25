@@ -193,7 +193,7 @@ Biomedical Segmentation
 Depth: Recent Self-Supervised & Semi-Supervised Techniques
 * [AMDIM: ALearning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT7Gsd3Hp9RgNsJft-iRQQxBEoGCMKnHWXY0DtCSqDHR38EurpHECbGwqneFrXG3aCgr6Cssza2z8kB/pub)] <kbd>NIPS 2019</kbd>
 * [PIRL: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSsb9J2PUPIJWDJhWHC0pz-x4ddbJnN2IXnnlwkR9s6bABWtTe2u1xqM_z5vU2kM9ECueksVWPzoLvq/pub)] <kbd>CVPR 2020</kbd>
-* [Virtual Adversarial Training: A Regularization ](https://arxiv.org/abs/1704.03976) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQGMoYNBPHsMQkpmHOp6A1Gp-hdfEQF7e88QEUxeXXvSmo2EjMCDdMBWX1MWCyWgHAWvH9hXi5ZvzHH/pub)] <kbd>TPAMI 2018</kbd>
+* [Virtual Adversarial Training: A Regularization ](https://arxiv.org/abs/1704.03976) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQkvTe6uSKkcsmXJBjKCaFPqcWGJv5BeJrmr_QoPBSieuTck9AuJDaqLhMNp7ZgOQqoRnx3XusOdnRO/pub)] <kbd>TPAMI 2018</kbd>
 
 ### Wk3 - 2020.07.06
 Breadth: Segmentation
