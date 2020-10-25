@@ -105,7 +105,15 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
-### Wk13 - 2020.10.20
+### Wk14 - 2020.10.26
+Semi-Supervised Learning
+* [(Topic) Data Augmentation](https://docs.google.com/document/d/e/2PACX-1vSA61w3syRhRSh13U7UDuDRsUZomXoCPqCRjtLzMhk0awu0AFf-bxOlki2ezId2fjF-3lZF2VIu5QRg/pub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSA61w3syRhRSh13U7UDuDRsUZomXoCPqCRjtLzMhk0awu0AFf-bxOlki2ezId2fjF-3lZF2VIu5QRg/pub)]
+* [PseudoLabel: Simple & Efficient SSL Method for DNNs](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) [[Notes]] <kbd>2013</kbd>
+* [UDA: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) [[Notes]] <kbd>2019</kbd>
+* [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes]] <kbd>2019</kbd>
+* [FixMatch: Simplifying SSL with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Notes]] <kbd>2019</kbd>
+
+### Wk13 - 2020.10.19
 Semi-Supervised Learning
 * [(Topic) Null Space Deep Learning](https://docs.google.com/document/d/e/2PACX-1vTID-8qXRE4se-u_qtHYv017llQ140QyFigJb64WsJBLBRBFpbEoS07wphtW8d7FMtmfvx7AtqoEkCf/pub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTID-8qXRE4se-u_qtHYv017llQ140QyFigJb64WsJBLBRBFpbEoS07wphtW8d7FMtmfvx7AtqoEkCf/pub)]
 * [Semi-supervised Machine Learning with MixMatch and Equivalence Classes](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_12) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTJY1VzWuhzb68JuS8SJwhEtaaNldCRb--Q6yyqB4gYqd4Rh9CEE254x-iiAD2OEFYAYTmGzAdFPUXd/pub)] <kbd>MICCAI 2020</kbd>
