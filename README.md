@@ -112,6 +112,7 @@ Semi-Supervised Learning
 * [UDA: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) [[Notes]] <kbd>2019</kbd>
 * [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes]] <kbd>2019</kbd>
 * [FixMatch: Simplifying SSL with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Notes]] <kbd>2019</kbd>
+* [Semi-Supervised Learning with Scarce Annotations](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Rebuffi_Semi-Supervised_Learning_With_Scarce_Annotations_CVPRW_2020_paper.pdf) [[Notes]] <kbd>CVPR 2020</kbd>
 
 ### Wk13 - 2020.10.19
 Semi-Supervised Learning
