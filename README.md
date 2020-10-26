@@ -121,8 +121,8 @@ Semi-Supervised Learning
 * [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRhkat4tAj1EY21Cmrab_dciZn4Y1JtedTgXdxojXTkW4nmm9TimoLxcUVXIoLH9UFJrIiyqGlyoSB7/pub)] <kbd>NIPS 2019</kbd>
 * [Pi-Model: Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTWEr25XPcQfJ8ijvITZ8pwgGBbZ5pfb6Ueu_yKmWs_rX0yMpV4jr0vneIr1KjQaMQzJiGsqyImd2sJ/pub)] <kbd>ICLR 2017</kbd>
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSgA_r5_o0NWELfuFwSFH550nammFsiU1wUb3TgIQnoUWtgcFt829fD0Rn9FUeSdy0bpsSKBpPYCviV/pub)] <kbd>NIPS 2014</kbd> 
-* []() [[Notes]()] <kbd>MICCAI 2020</kbd>
-* []() [[Notes]()] <kbd>MICCAI 2020</kbd>
+* [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning
+](https://arxiv.org/abs/1908.02983) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQChmrzlyqP2ccir0G8NaYbDEYHhp4naofdoM_qA5eJyX2NibN8z5l4yDoLf5q0YrxuE0ypVuDPiAvd/pub)] <kbd>IJCNN 2020</kbd>
 
 ### Wk12 - 2020.10.13
 Biomedical Semi-Supervised Learning
