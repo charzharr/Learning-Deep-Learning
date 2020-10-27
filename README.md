@@ -109,7 +109,7 @@ Breadth: Deep Learning Fundamental Concepts
 Semi-Supervised Learning
 * [(Topic) Data Augmentation](https://docs.google.com/document/d/e/2PACX-1vSA61w3syRhRSh13U7UDuDRsUZomXoCPqCRjtLzMhk0awu0AFf-bxOlki2ezId2fjF-3lZF2VIu5QRg/pub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSA61w3syRhRSh13U7UDuDRsUZomXoCPqCRjtLzMhk0awu0AFf-bxOlki2ezId2fjF-3lZF2VIu5QRg/pub)]
 * [Semi-supervised Learning by Entropy Minimization](https://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSh4kpvtOGDYLrushYjt0vgQ0QOzWzNjS4Py38gbX9kRAUV3sYbLwSh9oQmlRQt7k74ecLyEwc0qO8g/pub)] <kbd>NIPS 2005</kbd>
-* [PseudoLabel: Simple & Efficient SSL Method for DNNs](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) [[Notes]] <kbd>ICML 2013</kbd>
+* [PseudoLabel: Simple & Efficient SSL Method for DNNs](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQRzj17ze3wWnuoYsL-y3h-gwgGJ8LRIaaWYt77HI9TW6uczdWgdidwCm7R9cigg42CBTnkFo4q_4h5/pub)] <kbd>ICML 2013</kbd>
 * [ICT: Interpolation Consistency Training for SSL](https://arxiv.org/abs/1903.03825) [[Notes]] <kbd>IJCAI 2019</kbd>
 * [UDA: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) [[Notes]] <kbd>2019</kbd>
 * [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes]] <kbd>2019</kbd>
