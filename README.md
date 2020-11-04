@@ -112,7 +112,7 @@ Semi-Supervised Learning
 * [PseudoLabel: Simple & Efficient SSL Method for DNNs](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQRzj17ze3wWnuoYsL-y3h-gwgGJ8LRIaaWYt77HI9TW6uczdWgdidwCm7R9cigg42CBTnkFo4q_4h5/pub)] <kbd>ICML 2013</kbd>
 * [ICT: Interpolation Consistency Training for SSL](https://arxiv.org/abs/1903.03825) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRRif6V6y7Q4XSxh0SMtRJQexbCG3QgjP_A3BvunQu3lhjiSCPcuCsu5DyH18mrL-wrOk47BZyGDA0r/pub)] <kbd>IJCAI 2019</kbd>
 * [UDA: Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) [[Notes](https://docs.google.com/document/d/e/2PACX-1vTRuBB9ctvNUK7fTobpqdi42FmFYHWKGD1vVy_30JOvMlpgcXbgGdyY2Lvf811NpNWnF-uqPY1bQIZ_/pub)] <kbd>2019</kbd>
-* [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes]] <kbd>2019</kbd>
+* [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSdKS3NTVITnteM9UuMLq_lMyeKJLHFQm2XgxokVG9mS7CT4ht81nZCt1NwA17JvBenRXXsZUe6dfVh/pub)] <kbd>ICLR 2020</kbd>
 * [FixMatch: Simplifying SSL with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Notes]] <kbd>2019</kbd>
 * [Semi-Supervised Learning with Scarce Annotations](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Rebuffi_Semi-Supervised_Learning_With_Scarce_Annotations_CVPRW_2020_paper.pdf) [[Notes]] <kbd>CVPR 2020</kbd>
 
