@@ -106,12 +106,16 @@ Breadth: Deep Learning Fundamental Concepts
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
 ### Wk15 - 2020.11.2
+Semi-Supervised Classification
 * [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSdKS3NTVITnteM9UuMLq_lMyeKJLHFQm2XgxokVG9mS7CT4ht81nZCt1NwA17JvBenRXXsZUe6dfVh/pub)] <kbd>ICLR 2020</kbd>
 * [FixMatch: Simplifying SSL with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Updated Notes](https://docs.google.com/document/d/e/2PACX-1vSl0pBzwQE5UFluG5V_cT1kDh4QUVgBExxW_gfwz-HempGGTBocllDwQm7T3H8xmSSUtRCRAqEaJRCd/pub)] <kbd>2020</kbd>
+* [Regularization With Stochastic Transformations and Perturbations for Deep SSL](https://arxiv.org/abs/1606.04586) [[Notes]] <kbd>NIPS 2016</kbd>
+* [Mutual Exclusivity Loss for Semi-Supervised Deep Learning](https://arxiv.org/abs/1606.03141) [[Notes]] <kbd>ICIP 2016</kbd>
+* []() [[Notes]] <kbd>ICIP 2016</kbd>
 * [Semi-Supervised Learning with Scarce Annotations](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Rebuffi_Semi-Supervised_Learning_With_Scarce_Annotations_CVPRW_2020_paper.pdf) [[Notes]] <kbd>CVPR 2020</kbd>
 
 ### Wk14 - 2020.10.26
-Semi-Supervised Learning
+Semi-Supervised Classification
 * [(Topic) Data Augmentation](https://docs.google.com/document/d/e/2PACX-1vSA61w3syRhRSh13U7UDuDRsUZomXoCPqCRjtLzMhk0awu0AFf-bxOlki2ezId2fjF-3lZF2VIu5QRg/pub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSA61w3syRhRSh13U7UDuDRsUZomXoCPqCRjtLzMhk0awu0AFf-bxOlki2ezId2fjF-3lZF2VIu5QRg/pub)]
 * [Semi-supervised Learning by Entropy Minimization](https://papers.nips.cc/paper/2740-semi-supervised-learning-by-entropy-minimization.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSh4kpvtOGDYLrushYjt0vgQ0QOzWzNjS4Py38gbX9kRAUV3sYbLwSh9oQmlRQt7k74ecLyEwc0qO8g/pub)] <kbd>NIPS 2005</kbd>
 * [PseudoLabel: Simple & Efficient SSL Method for DNNs](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf) [[Notes](https://docs.google.com/document/d/e/2PACX-1vQRzj17ze3wWnuoYsL-y3h-gwgGJ8LRIaaWYt77HI9TW6uczdWgdidwCm7R9cigg42CBTnkFo4q_4h5/pub)] <kbd>ICML 2013</kbd>
