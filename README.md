@@ -109,7 +109,7 @@ Breadth: Deep Learning Fundamental Concepts
 Semi-Supervised Classification
 * [ReMixMatch: SSL with Distribution Alignment and Augmentation Anchoring](https://arxiv.org/abs/1911.09785) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSdKS3NTVITnteM9UuMLq_lMyeKJLHFQm2XgxokVG9mS7CT4ht81nZCt1NwA17JvBenRXXsZUe6dfVh/pub)] <kbd>ICLR 2020</kbd>
 * [FixMatch: Simplifying SSL with Consistency and Confidence](https://arxiv.org/abs/2001.07685) [[Updated Notes](https://docs.google.com/document/d/e/2PACX-1vSl0pBzwQE5UFluG5V_cT1kDh4QUVgBExxW_gfwz-HempGGTBocllDwQm7T3H8xmSSUtRCRAqEaJRCd/pub)] <kbd>2020</kbd>
-* [Regularization With Stochastic Transformations and Perturbations for Deep SSL](https://arxiv.org/abs/1606.04586) [[Notes]] <kbd>NIPS 2016</kbd>
+* [Regularization With Stochastic Transformations and Perturbations for Deep SSL](https://arxiv.org/abs/1606.04586) [[Notes](https://docs.google.com/document/d/e/2PACX-1vThAIImaH2VKKAm3C5O-EELxW7O1_JLUqnhsXTeEwnu_r62ozIBlX52v7X3sbp_5XVOplUmc-9j1QCh/pub)] <kbd>NIPS 2016</kbd>
 * [Mutual Exclusivity Loss for Semi-Supervised Deep Learning](https://arxiv.org/abs/1606.03141) [[Notes]] <kbd>ICIP 2016</kbd>
 * []() [[Notes]] <kbd>ICIP 2016</kbd>
 * [Semi-Supervised Learning with Scarce Annotations](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Rebuffi_Semi-Supervised_Learning_With_Scarce_Annotations_CVPRW_2020_paper.pdf) [[Notes]] <kbd>CVPR 2020</kbd>
