@@ -55,7 +55,10 @@ Community Discourse & Mentions
 
 ### Courses & Books
 
-Fundamentals
+Math
+* Linear Algebra [[MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)]
+
+DL Fundamentals
 * 🌟 All-in-one List of *Many* Topics [[repo](https://github.com/kmario23/deep-learning-drizzle)]
 * MIT Patrick Winston - Classic Artifical Intelligence 2010 [[playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)]
 * ⭐ Stanford CS231n - CNNs for Visual Recognition [[site](http://cs231n.stanford.edu/)]
