@@ -108,7 +108,7 @@ Breadth: Deep Learning Fundamental Concepts
 ### Wk16 - 2020.11.9
 Semi-Supervised Classification
 * [Semi-Supervised Classification of Chest Radiographs](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_19) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSkmQZ69ln51KStTiz7EbOPFmjpsyi3uaqUSPRW06GU-XmS6B98vC9_j7N2SLIgjMa9msrYn0oolYD8/pub)] <kbd>MICCAI 2020</kbd>
-* [SRC-MT: Semi-supervised Classification with Relation-driven Self-ensembling Model](https://arxiv.org/abs/2005.07377) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT6Xs0seuqt1IPQyZ0xot1x2INywtFgX4NSKmpS8tjaOrEz1futIZgD-9n303UspCXcJRbsZQK7FR49/pub)] <kbd>MICCAI 2020</kbd>
+* [SRC-MT: Semi-supervised Classification with Relation-driven Self-ensembling Model](https://arxiv.org/abs/2005.07377) [[Notes](https://docs.google.com/document/d/e/2PACX-1vT6Xs0seuqt1IPQyZ0xot1x2INywtFgX4NSKmpS8tjaOrEz1futIZgD-9n303UspCXcJRbsZQK7FR49/pub)] <kbd>IEEE TMI 2020</kbd>
 * [Semi-Supervised Learning with Scarce Annotations](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w45/Rebuffi_Semi-Supervised_Learning_With_Scarce_Annotations_CVPRW_2020_paper.pdf) [[Notes]] <kbd>CVPR 2020</kbd>
 
 ### Wk15 - 2020.11.2
