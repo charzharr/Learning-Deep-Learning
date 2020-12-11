@@ -108,6 +108,18 @@ Breadth: Deep Learning Fundamental Concepts
 * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [[TBP]()] <kbd>Distill 2020</kbd>
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/) [[TBP]()] <kbd>Distill 2018</kbd>
 
+
+### Wk17 - 2020.12.7
+Deeper Dives
+* [Distribution Aligning Refinery of Pseudo-label for Imbalanced Semi-supervised Learning](https://proceedings.neurips.cc/paper/2020/file/a7968b4339a1b85b7dbdb362dc44f9c4-Paper.pdf) [[Notes]()] <kbd>NIPS 2020</kbd>
+* [Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning](https://proceedings.neurips.cc/paper/2020/file/f7ac67a9aa8d255282de7d11391e1b69-Paper.pdf) [[Notes]()] <kbd>NIPS 2020</kbd>
+* [How Important Is Each Dermoscopy Image](https://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Barata_How_Important_Is_Each_Dermoscopy_Image_CVPRW_2020_paper.html) [[Notes]()] <kbd>CVPR 2020</kbd>
+
+Shallow Passes
+* [(Topic) CVPR 2020 Workshop: Skin Lesion Analaysis](https://docs.google.com/document/d/e/2PACX-1vRsQsuOviPEuL9MyFjNEPzYFlnw_fiAUFSLQGfIJRosw8NzTlJBrUPlm1ZENR2u77-OM4b7ViCFT8sm/pub) [[Notes](https://docs.google.com/document/d/e/2PACX-1vRsQsuOviPEuL9MyFjNEPzYFlnw_fiAUFSLQGfIJRosw8NzTlJBrUPlm1ZENR2u77-OM4b7ViCFT8sm/pub)]
+* [(Topic) Semi-Supervised Classification Overview]() [[Notes]()]
+
+
 ### Wk16 - 2020.11.9
 Semi-Supervised Classification
 * [Semi-Supervised Classification of Chest Radiographs](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_19) [[Notes](https://docs.google.com/document/d/e/2PACX-1vSkmQZ69ln51KStTiz7EbOPFmjpsyi3uaqUSPRW06GU-XmS6B98vC9_j7N2SLIgjMa9msrYn0oolYD8/pub)] <kbd>MICCAI 2020</kbd>
