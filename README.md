@@ -1,5 +1,5 @@
 # WTF-is-Deep-Learning
-My notes, experiences, progress, and resources for building Deep Learning expertise and slaying grad school. \
+My notes, experiences, progress, and resources for building Deep Learning expertise in grad school. \
 Focal Topics: Machine Learning, Deep Learning, Computer Vision, Biomedical Imaging
 <br><br>
 **Plan for 2020**: Intensively read 6 papers a week (1 per day Mon to Sat, review on Sun), and submit notes for each of them. The 6 papers will be divided into 2 general categories: (1) Breadth - aimed at solidifying DL foundations (2) Depth - for advancing relevant expertise for current projects and my dissertation in general.
